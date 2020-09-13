@@ -1,9 +1,15 @@
 # KUL_bot
 
-[KUL_bot](http://github.com/WerWebWer/KUL_bot") – 
+[KUL_bot](http://github.com/WerWebWer/KUL_bot") –  прототип команды 1DevFull участника Цифрового прорыва 2020 Приволжского IT хаба.
+Это бек энд репозиторий.
+Frontend - https://github.com/kirillnepomiluev/kul  .  (webApp) Flutter Можно сделать билд и как мобильное приложение на Android и на IOS и как webApp.
 
+Решение - чат бот, позволяющий пользователю, ответив на вопросы получить информацию о доступных ему льготах, а так же помочь с офромлением документов.  Нейронная сеть обучающаяся на результатах ответов подбирает оптимальную последовательность вопросов. 
+Ссылка на чат бот - @kul_1devfull_bot   (Telegram)
 
+## Web-App
 
+[WebApp](https://github.com/kirillnepomiluev/kul "WebApp")
 
 ## Предзапускная установка
 
